@@ -1,0 +1,26 @@
+*{
+    background-color: plum;
+}
+
+h1{
+    color: purple;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+
+}
+
+li {
+    color: rgb(56, 18, 56);
+    font-family: cursive;
+    font-size: large;
+}
+
+body{
+    font-size: 18px;
+}
+
+img{
+    width: 200px;
+    height: ;
+}
